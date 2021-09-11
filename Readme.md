@@ -25,7 +25,7 @@ Faz um CRUD (create, read, update e delete) para consumir uma api.
 Este projeto é uma parte:
 1. Backend
 
-💡Para funcionar o projeto, deve criar uma base de dados com o banco mysql. O nome do banco de dados, host, porta, username, senha, deve estar configurado como no arquivo ormconfig.json.
+💡Para funcionar o projeto, deve criar uma base de dados no DBeaver, chamada 'autoeletrica' e conectando ela com o banco mysql. O nome do banco de dados, host, porta, username, senha, deve estar configurado como no arquivo ormconfig.json.
 
 > Veja o arquivo  [ormconfig.json](https://github.com/gustavo-gnunes/formCadastro-Backend/blob/main/ormconfig.json)
 
